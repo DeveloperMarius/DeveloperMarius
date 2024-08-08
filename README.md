@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Marius. I'm a Web Developer interested in IoT and Web Security.
+My name is Marius. I'm a Web Developer interested in IoT and Web Security.
 
 ## ⚡ Recent Activity
 
